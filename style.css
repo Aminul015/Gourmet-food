@@ -1,0 +1,115 @@
+ .as
+ {
+    font-size: large;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+ }
+a{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: medium;
+    background-color:white;
+    
+}
+a:hover{
+    color: white;
+    background-color: brown;
+    padding: 20px;
+    transition: 0.2s;
+}
+ 
+
+.cc{
+    font-size: larger;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+}
+a{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: medium;
+    background-color: red;
+    
+}
+ 
+ 
+.f
+{
+    font-size: large;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.ef{
+    font-size: large;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+
+}
+
+.dd{
+    font-size: large;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+}
+.ddd{
+    font-size: large;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+
+}
+.dddd{
+    font-size: large;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+
+}
+.def
+{
+font-size: larger;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.b{
+    font-size: large;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+
+}
+.abc
+{
+         
+        font-weight: bold;
+     font-size: medium;
+  
+        
+
+}
+.g
+{
+    font-size: larger;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ text-align: left;
+}
+
+.gg
+{
+    font-size: large;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+}
+.qq
+{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: medium;
+    background-color:white;
+}
